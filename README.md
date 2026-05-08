@@ -1,3 +1,3 @@
-# salao-beleza
+<h1>Alex Corte</h1>
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-y7xgfvp8)
+<p>Onde cada detalhe importa. Cortes precisos, barbas perfeitas e uma experiência que você não vai esquecer.</p>
